@@ -84,7 +84,7 @@
         "source" : {
           "type" : "Git",
           "git" : {
-            "uri": "git://github.com/bparees/javaee7-hol.git"
+            "uri": "https://github.com/ianmiell/javaee7-hol.git"
           }
         },
         "strategy": {
